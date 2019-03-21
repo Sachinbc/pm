@@ -21,8 +21,8 @@ Final Static code Analysis------>>>> 8/10
 
 """
 
-print("enter a number")
-num = int(input())
+
+num = 765
 
 if num > 1:
     for i in range(2, num):
